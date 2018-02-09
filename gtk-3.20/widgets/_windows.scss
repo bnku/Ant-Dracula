@@ -101,8 +101,9 @@ button.titlebutton {
 
   &:backdrop { 
     -gtk-icon-shadow: none; 
-    background-image: -gtk-scaled(url("../assets/close_unfocused.png"),url("../assets/close_unfocused@2.png"));    
+    background-image: -gtk-scaled(url("../assets/titlebutton_unfocsed.png"),url("../assets/titlebutton_unfocsed.png"));    
   }
+
 }
 
 headerbar.selection-mode button.titlebutton,
